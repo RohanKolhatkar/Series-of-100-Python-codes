@@ -1,5 +1,6 @@
 ## pyhton program to count symbols ,digits, letters and whitespaces...
 # symbols allowed== ( , .  ! @ # $ % ^ & * ( )   ) 
+#input must only contains the specified items....
 
 str= input("enter a string contaning digits letters synbols and whitespaces \n")
 str = str.lower(); 
